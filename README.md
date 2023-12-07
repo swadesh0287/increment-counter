@@ -28,4 +28,4 @@ The counters start from zero and increment smoothly to a specified target value.
 Feel free to integrate this project into your web applications to add an engaging counter feature.
 
 ## Author
-[Vishakha Singhal]
+[Swadesh Kumar]
